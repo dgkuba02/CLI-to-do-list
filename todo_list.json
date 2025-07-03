@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Zjesc obiad",
+    "done": false,
+    "priority": "low",
+    "due_date": "12-07-2025"
+  },
+  {
+    "description": "Umyc naczynia",
+    "done": false,
+    "priority": "high",
+    "due_date": "17-07-2025"
+  },
+  {
+    "description": "Sprzedac rower",
+    "done": false,
+    "priority": "medium",
+    "due_date": "31-07-2025"
+  }
+]
